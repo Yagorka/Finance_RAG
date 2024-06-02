@@ -1,0 +1,9 @@
+langchain_community
+langchain 
+sentence_transformers 
+lancedb 
+unstructured 
+yandex_chain 
+yandexcloud
+gradio
+faiss-gpu
